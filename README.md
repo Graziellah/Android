@@ -9,4 +9,4 @@ Beaucoup de ces projets ont subit quelques petites améliorations afin de rendre
 - IMC(prochainement)
 - Compteur(prochainement)
 - CookieCatch(prochainement)
-- TicTacToe =>jeu de morpion)
+- TicTacToe (=>jeu de morpion)
