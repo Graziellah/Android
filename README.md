@@ -1,7 +1,7 @@
 # Mini Projet Android
 
 Les projets qui se trouvent dans ce dossier ont été réalisés au cours de tutos, suivis sur internet.
-Beaucoup de ces projets ont subit quelques petites améliorations afin de rendre les applications plus interessantes.
+Beaucoup de ces projets ont subit quelques petites améliorations afin de rendre les applications plus intéressantes.
 
 
 ## Liste des Projets.
